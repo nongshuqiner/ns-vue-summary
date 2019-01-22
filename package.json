@@ -1,7 +1,7 @@
 {
   "name": "ns-vue-summary",
   "description": "基于vue的概要列表组件",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "nongshuqiner <ym1185509297@163.com>",
   "license": "MIT",
   "main": "dist/ns-summary.js",
