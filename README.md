@@ -1,3 +1,4 @@
+
 # ns-vue-summary
 
 > A Vue component to show summary list(基于vue的概要列表组件)
@@ -15,10 +16,10 @@ or,just include ns-summary.js to your view like this.(或者使用引用ns-summa
 Namely(即)：
 
 ``` js
-import NsVueSummary from 'ns-vue-summary';
-// 或者 const NsVueSummary = require('ns-vue-summary');
+import NsVueSummary from 'ns-vue-summary'
+// 或者 const NsVueSummary = require('ns-vue-summary')
 // 或者 <script src="..."></script>
-Vue.use(NsVueSummary);
+Vue.use(NsVueSummary)
 ```
 
 ## Usage(使用)
@@ -102,6 +103,13 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+## Donation
+
+If you find component useful, you can buy me a cup of coffee
+如果您发现此组件有用，您可以给我买一杯咖啡
+
+![payment-code.png](https://upload-images.jianshu.io/upload_images/4645892-20338f9a0a443ff2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Contact me(联系我)
 
