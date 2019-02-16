@@ -42,37 +42,3 @@ export default {
   }
 }
 </script>
-
-<style lang="scss" scoped>
-.ns-summary-item {
-  display: inline-block; text-align: center; padding: 10px 0; color: #818181; width: 33.33%;
-  height: 100%; box-sizing: border-box;
-  .ns-summary-item-desc {
-    display: block; min-height: 24px;
-    // font-size: 24px; padding-bottom: 8px;
-  }
-  .ns-summary-item-title {
-    display: block;
-    // font-size: 14px;
-  }
-}
-
-.ns-summary-type-primary {
-  .ns-summary-item-desc { color: #409EFF; }
-}
-.ns-summary-type-info {
-  .ns-summary-item-desc { color: #2dc3e8; }
-}
-.ns-summary-type-gray {
-  .ns-summary-item-desc { color: #C0C4CC; }
-}
-.ns-summary-type-success {
-  .ns-summary-item-desc { color: #67C23A; }
-}
-.ns-summary-type-warning {
-  .ns-summary-item-desc { color: #E6A23C; }
-}
-.ns-summary-type-danger {
-  .ns-summary-item-desc { color: #F56C6C; }
-}
-</style>
